@@ -12,7 +12,7 @@ Mostly, I like understanding how things work and building technology that is gen
 - **Which one is my preferred programming language?** Python 🐍
 - **Which one is my favorite Python library?** PyTorch 💖
 - **What are my most GitHub repos based on?** Computer Vision 👀 with some dash of LLMs 🤖
-- **What I drink the most while at work?** Umm, water.
+- **What I drink the most while at work?** Umm, water! 🫗
 
 ## Publications 📑
 
