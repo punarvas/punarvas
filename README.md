@@ -8,7 +8,7 @@ Mostly, I like understanding how things work and building technology that is gen
 
 ## Professional Trivia ⁉️
 - **Where do I work?** University of Michigan Life Sciences Institute 🔬
-- **What is my professional title?** I am a Research Associate, but more like a Computer Vision Engineer
+- **What is my professional title?** I am a Research Associate, but more like a Computer Vision Engineer 🧑‍🔬
 - **Which one is my preferred programming language?** Python 🐍
 - **Which one is my favorite Python library?** PyTorch 💖
 - **What are my most GitHub repos based on?** Computer Vision 👀 with some dash of LLMs 🤖
