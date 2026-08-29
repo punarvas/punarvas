@@ -26,4 +26,4 @@ In my published works, I have explored time series analysis and development of s
 
 ## 🔗 Connect with Me
 - **Email**: [akashmahajan025@gmail.com](mailto:akashmahajan025@gmail.com)
-- **LinkedIn**: [linkedin.com/in/thisisakashmahajan](https://linkedin.com/in/thisisakashmahajan)
+- **LinkedIn**: [linkedin.com/in/thisisakashmahajan](https://www.linkedin.com/in/thisisakashmahajan)
